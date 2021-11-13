@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CursoXamarin.MainPage"
+             Title="This is MainPage">
+
+    <StackLayout>
+        <StackLayout 
+            Orientation="Horizontal"
+            Margin="5,5">
+            <Button
+                x:Name="btnPageA"
+                Text="Page A"
+                BorderColor="Red"
+                BorderWidth="1"
+                Clicked="btnPageA_Clicked" 
+                HorizontalOptions="CenterAndExpand"/>
+
+            <Button
+                x:Name="btnBooks"
+                Text="Books"
+                BorderColor="Red"
+                BorderWidth="1"
+                Clicked="btnBooks_Clicked"
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+       
+    </StackLayout>
+
+</ContentPage>

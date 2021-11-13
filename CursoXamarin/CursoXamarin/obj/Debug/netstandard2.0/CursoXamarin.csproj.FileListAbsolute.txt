@@ -1,0 +1,16 @@
+C:\Proyectos\Desarrollo_movil\Xamarin\Udemy\CursoXamarin\CursoXamarin\CursoXamarin\bin\Debug\netstandard2.0\CursoXamarin.deps.json
+C:\Proyectos\Desarrollo_movil\Xamarin\Udemy\CursoXamarin\CursoXamarin\CursoXamarin\bin\Debug\netstandard2.0\CursoXamarin.dll
+C:\Proyectos\Desarrollo_movil\Xamarin\Udemy\CursoXamarin\CursoXamarin\CursoXamarin\bin\Debug\netstandard2.0\ref\CursoXamarin.dll
+C:\Proyectos\Desarrollo_movil\Xamarin\Udemy\CursoXamarin\CursoXamarin\CursoXamarin\bin\Debug\netstandard2.0\CursoXamarin.pdb
+C:\Proyectos\Desarrollo_movil\Xamarin\Udemy\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\CursoXamarin.csprojAssemblyReference.cache
+C:\Proyectos\Desarrollo_movil\Xamarin\Udemy\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Proyectos\Desarrollo_movil\Xamarin\Udemy\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Proyectos\Desarrollo_movil\Xamarin\Udemy\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\CursoXamarin.AssemblyInfoInputs.cache
+C:\Proyectos\Desarrollo_movil\Xamarin\Udemy\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\CursoXamarin.AssemblyInfo.cs
+C:\Proyectos\Desarrollo_movil\Xamarin\Udemy\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\CursoXamarin.csproj.CoreCompileInputs.cache
+C:\Proyectos\Desarrollo_movil\Xamarin\Udemy\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Proyectos\Desarrollo_movil\Xamarin\Udemy\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\CursoXamarin.dll
+C:\Proyectos\Desarrollo_movil\Xamarin\Udemy\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\ref\CursoXamarin.dll
+C:\Proyectos\Desarrollo_movil\Xamarin\Udemy\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\CursoXamarin.pdb
+C:\Proyectos\Desarrollo_movil\Xamarin\Udemy\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\PageA.xaml.g.cs
+C:\Proyectos\Desarrollo_movil\Xamarin\Udemy\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\Views\BooksView.xaml.g.cs
