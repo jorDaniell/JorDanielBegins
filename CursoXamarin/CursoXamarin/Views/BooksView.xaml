@@ -10,7 +10,7 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <ScrollView
-        Margin="15,15">
+        Margin="5">
         <ListView
             ItemsSource="{Binding Books}"
             Footer="All right reserved @2021"
